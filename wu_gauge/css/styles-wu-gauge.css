@@ -1,0 +1,62 @@
+
+
+
+#windCircle {
+
+
+	font-family: Arial, Helvetica, sans-serif;
+
+	font-weight: bold;
+
+	width: 100px; /* should be the width of the windCircleGraphic image */
+
+}
+
+
+
+	
+#windCircleSpeed {
+
+	text-align: center;
+
+	margin-top: -60px;
+
+
+	font-size: 22px;
+
+}
+
+
+
+#windCircleCompassLabel {
+
+	text-align: center;
+
+	margin-top: -45px;
+
+	font-size: 10px;
+
+	font-weight: normal;
+
+	color: black;
+
+}
+
+
+
+#windCircleSummary {
+
+	text-align: center;
+
+	font-size: 12px;
+
+	font-weight: normal;
+
+	color: black;
+
+	margin-top: 70px;
+}
+
+
+
+
