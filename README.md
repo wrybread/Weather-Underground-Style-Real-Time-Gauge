@@ -2,7 +2,7 @@
 
 An ajax-based wind gauge similar to the one on Weather Underground. See a live demo here:
 
-http://sinkingsensatino.com/wu_gauge
+http://sinkingsensation.com/wu_gauge
 
 You can compare that to the wind indicator on our page on Weather Underground here:
 
