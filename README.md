@@ -2,11 +2,11 @@
 
 An ajax-based wind gauge similar to the one on Weather Underground. See a live demo here:
 
-sinkingsensatino.com/wu_gauge
+http://sinkingsensatino.com/wu_gauge
 
 You can compare that to the wind indicator on our page on Weather Underground here:
 
-wunderground.com/cgi-bin/findweather/getForecast?query=pws:KCAPETAL93
+http://wunderground.com/cgi-bin/findweather/getForecast?query=pws:KCAPETAL93
 
 How it works:
 
